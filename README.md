@@ -6,7 +6,7 @@ Brief an agent from the browser and it starts immediately. Watch every step stre
 comments, branches, patches, checks and verdicts — with each action attributed and undoable.
 The agents run the loop end to end; the one step they park is the merge.
 
-[![CI](https://github.com/TrippleA001/ziki-for-humans/actions/workflows/ci.yml/badge.svg)](https://github.com/TrippleA001/ziki-for-humans/actions/workflows/ci.yml)
+[![CI](https://github.com/ibuild-ai/ziki-for-humans/actions/workflows/ci.yml/badge.svg)](https://github.com/ibuild-ai/ziki-for-humans/actions/workflows/ci.yml)
 
 **Live demo → [ziki-for-humans.vercel.app](https://ziki-for-humans.vercel.app)**
 
@@ -175,7 +175,7 @@ Hosted at **[ziki-for-humans.vercel.app](https://ziki-for-humans.vercel.app)**.
 The project has no environment variables. Import the repository and accept the detected settings:
 framework **Next.js**, build command `pnpm build`, output `.next`.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FTrippleA001%2Fziki-for-humans&project-name=ziki-for-humans)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fibuild-ai%2Fziki-for-humans&project-name=ziki-for-humans)
 
 Or from the CLI:
 
